@@ -8,7 +8,7 @@ Users can choose the UCSB dining hall and menu (e.g. De La Guerra, lunch) using 
 Backend features that have not been fully implemented in the application due to my lack of knowledge in React include authentication and authorization using JWT as well as endpoints for user profiles and corresponding meal plans. 
 
 Demo of working frontend:
-https://user-images.githubusercontent.com/66229119/189471820-061321fc-a952-4318-8731-464ab297f0fb.mp4
+![Link to video](https://user-images.githubusercontent.com/66229119/189471820-061321fc-a952-4318-8731-464ab297f0fb.mp4)
 
 
 API endpoints:
